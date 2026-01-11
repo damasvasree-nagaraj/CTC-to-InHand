@@ -35,15 +35,6 @@ Process: Tax + PF + HRA calculation
 Output: ₹70,000/month (approx.)
 
 
-## Tax Regime (FY 2026–27)
-
-0–3L : 0%
-3–7L : 5%
-7–10L : 10%
-10–12L : 15%
-12–15L : 20%
-15L+ : 30%
-
 ## Project Structure
 
 Copy code
